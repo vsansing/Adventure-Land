@@ -1,0 +1,26 @@
+7/3/2018
+Created Dungeons 2 + 3 along with Dungeon layouts for 1 + 2 + 3
+Created Enemy interface in Enemy package
+Created Dungeon interface and began entering methods for each Dungeon to have
+
+10/19/2018
+Implemented Dungeon to Dungeon1
+Added stats to the Dungeon
+Added methods to Enemy Interface
+Added logic to Dungeon1 with 
+
+11/1/2018
+Changed Enemy to a class from interface
+Added EnemyDef interface
+Made Enemy to the logic of enemies
+Created "enemies" array to hold enemy types 
+Added enemies in EnemyTypes() method in Enemy
+Did basic testing to see if miniBoss method worked as intended 
+
+12/11/2018
+Created dungeonPath in Dungeon interface : implemented in Dungeon 1
+
+1/5/19
+Created switch statements in Enemy Class
+	In enemyType() and enemyHealth()
+Created enemyDamageTaken method
